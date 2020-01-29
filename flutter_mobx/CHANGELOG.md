@@ -1,3 +1,18 @@
+## 1.0.0 - 1.0.1
+
+- Ready for prime time!
+- Fixing version resolution
+
+## 0.3.7
+
+- Refactoring `observer.dart` to separate out the `StatelessObserverWidget`, `StatefulObserverWidget` and the `ObserverWidgetMixin` into their own files.
+
+## 0.3.6+1 - 0.3.6+2
+
+- README updates
+- Switching to [Github Actions](https://github.com/mobxjs/mobx.dart/actions) for all builds and publishing
+- Upgraded to `Dart 2.7` as the min SDK
+
 ## 0.3.5 - 0.3.6
 
 - Updated `mobx` dependency version to **0.4.0** in `flutter_mobx` `pubspec.yaml`
